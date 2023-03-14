@@ -21,6 +21,6 @@ public class Main {
         int ans2 = p.product(10 , 20 , 30);
         double ans3 = p.product(10,30);
 
-
+        System.out.println(ans1 + " " + ans1 + " " + ans3);
     }
 }
